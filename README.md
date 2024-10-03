@@ -42,6 +42,6 @@ El objetivo del proyecto es desarrollar un proceso de ETL para un algoritmo de M
     python run_etl.py
 ```
 *NOTA*: En caso de que reciba error por la configuracion del python path, lo puede configurar de la siguiente forma:
-    ```bash
+```bash
     export PYTHONPATH=$PYTHONPATH:$(pwd)
-    ```
+```
