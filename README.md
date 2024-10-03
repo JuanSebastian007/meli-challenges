@@ -30,7 +30,7 @@ El objetivo del proyecto es desarrollar un proceso de ETL para un algoritmo de M
     ```
 4. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/mercado_libre_challenge.git
+    git clone https://github.com/JuanSebastian007/meli-challenges.git
     cd mercado_libre_challenge
     ```
 5. Instala las dependencias:
